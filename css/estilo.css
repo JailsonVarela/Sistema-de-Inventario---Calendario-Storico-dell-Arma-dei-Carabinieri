@@ -1,0 +1,26 @@
+body {
+    background: linear-gradient(to right, #74ebd5, antiquewhite);
+    /*background-image: url("../imagens/fundo.jpg");*/
+    background-size: cover; /* cobre toda a tela */
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* efeito parallax */
+}
+
+table {
+    width: 80%;
+    margin-top: 0px;
+}
+
+.cabecalho {
+    width: 80%;
+    text-align: center;
+}
+
+h1#ANOS {
+    width: 100%;
+    text-align: center;
+}
+
+.opcaoValida{
+    background:linear-gradient(to right, #74ebd5, rgb(151, 46, 46));
+}
