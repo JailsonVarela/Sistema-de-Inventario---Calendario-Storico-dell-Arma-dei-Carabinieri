@@ -28,7 +28,7 @@ Criar uma aplicação web simples e funcional para:
 │   └── images/
 ├── .gitignore
 └── README.md
-
+'''
 
 ## 🚀 Funcionalidades
 - Interface Web em HTML e CSS
