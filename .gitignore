@@ -1,0 +1,14 @@
+# Windows / Sistema
+Thumbs.db
+Desktop.ini
+NTUSER.*
+*.log
+
+# VS Code
+.vscode/
+
+# Node / cache (se existir)
+node_modules/
+
+# Outros
+.DS_Store
