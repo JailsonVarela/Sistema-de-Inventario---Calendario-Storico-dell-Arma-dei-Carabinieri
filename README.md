@@ -19,7 +19,8 @@ Criar uma aplicação web simples e funcional para:
 ---
 
 ## 📂 Estrutura do Projeto
-'''text
+
+```text
 /
 ├── index.html
 ├── css/
@@ -28,7 +29,7 @@ Criar uma aplicação web simples e funcional para:
 │   └── images/
 ├── .gitignore
 └── README.md
-'''
+```
 
 ## 🚀 Funcionalidades
 - Interface Web em HTML e CSS
