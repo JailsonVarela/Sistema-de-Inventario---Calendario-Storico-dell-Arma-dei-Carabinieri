@@ -1,5 +1,5 @@
-# 🌐 Sistema-de-Inventario---Calendario-Storico-dell-Arma-dei-Carabinieri
-Projeto Web do sistema de inventário para os Calendários Históricos da Arma dos Carabinieri (1978-1980).
+# 🌐 Sistema-de-Inventário---Calendario-Storico-dell-Arma-dei-Carabinieri
+Projeto Web do sistema de inventário para Calendario Storico dell'Arma dei Carabinieri nos anos 1978 a 1980.
 Este projecto desenvolvido com **HTML e CSS**, com o objetivo de estudar, praticar e implementar funcionalidades básicas de uma aplicação web.
 
 ---
