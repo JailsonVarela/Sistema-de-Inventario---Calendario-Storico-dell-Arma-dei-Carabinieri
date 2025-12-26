@@ -1,14 +1,24 @@
-# Windows / Sistema
-Thumbs.db
-Desktop.ini
-NTUSER.*
-*.log
-
-# VS Code
+# Visual Studio Code
 .vscode/
 
-# Node / cache (se existir)
+# Dependências (caso use npm)
 node_modules/
 
-# Outros
+# Build / temporários
+dist/
+build/
+.cache/
+.tmp/
+
+# Variáveis de ambiente
+.env
+.env.*
+
+# Logs
+*.log
+
+# Sistema Operativo
 .DS_Store
+Thumbs.db
+desktop.ini
+NTUSER.*
