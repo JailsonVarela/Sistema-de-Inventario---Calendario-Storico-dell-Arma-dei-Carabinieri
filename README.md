@@ -43,6 +43,15 @@ Em desenvolvimento
 - Jailson Lopes Varela 
 - Isabella Celestino
 
+## 🌐 Acesso ao Projeto (GitHub Pages)
+
+Este projeto encontra-se publicado através do serviço **GitHub Pages**, possibilitando a visualização contínua da versão mais recente do sistema, sem necessidade de instalação local.
+
+Endereço de acesso:  
+https://jailsonvarela.github.io/Sistema-de-Inventario---Calendario-Storico-dell-Arma-dei-Carabinieri/
+
+Todas as atualizações efetuadas no repositório são refletidas automaticamente na versão online.
+
 ## 📄 Licença
 
 Este projeto foi desenvolvido em regime de **colaboração académica** para fins
