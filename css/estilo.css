@@ -49,6 +49,12 @@ h1#ANOS {
 .opcaoValida {
     background:linear-gradient(to right, #74ebd5, #ef5d5d);
     color:black;
+    font-weight: bold;
+}
+
+.table td,
+.table th {
+  background-color:transparent !important;
 }
 
 td{
