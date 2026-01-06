@@ -13,6 +13,12 @@ header{
     margin-bottom: 75px;
 }
 
+.card{
+    height: auto;
+    background-color: transparent;
+    border-color: transparent;
+}
+
 table {
     width: 100%;
     margin-top: -1px;
