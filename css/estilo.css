@@ -24,11 +24,8 @@ table {
     margin-top: -1px;
 }
 
-#carousel{
-    width:70%; 
-    margin-left: 15%; 
-    margin-bottom: 50px; 
-    margin-top: 50px;
+.carousel{
+    width:90%; 
 }
 
 .btn {
