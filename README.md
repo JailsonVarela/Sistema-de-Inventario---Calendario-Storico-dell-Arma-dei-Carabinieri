@@ -15,6 +15,9 @@ Criar uma aplicação web simples e funcional para:
 ## 🛠️ Tecnologias Utilizadas
 - **HTML5** – Estrutura do conteúdo
 - **CSS3** – Estilização e layout
+- Git
+- GitHub
+- GitHub Pages
 
 ---
 
