@@ -38,9 +38,6 @@ Criar uma aplicação web simples e funcional para:
 - Interface Web em HTML e CSS
 - Organização e visualização de dados
 
-## 📌 Estado do Projeto
-Em desenvolvimento
-
 ## 👥 Autores
 
 - Jailson Lopes Varela 
